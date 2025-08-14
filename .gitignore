@@ -48,6 +48,9 @@ src/data/heal_locations.h
 src/data/items.h
 src/data/wild_encounters.h
 src/data/region_map/region_map_entries.h
+
+# Custom Python scripts for ROM modification
+scripts/
 src/data/region_map/region_map_entry_strings.h
 src/data/region_map/porymap_config.json
 tags
