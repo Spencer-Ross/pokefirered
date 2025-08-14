@@ -35,12 +35,6 @@ CeladonCity_DepartmentStore_4F_Items::
 	.2byte ITEM_SUN_STONE
 	.2byte ITEM_MOON_STONE
 	.2byte ITEM_LINK_CABLE
-	.2byte ITEM_KINGS_ROCK
-	.2byte ITEM_METAL_COAT
-	.2byte ITEM_DRAGON_SCALE
-	.2byte ITEM_UP_GRADE
-	.2byte ITEM_DEEP_SEA_TOOTH
-	.2byte ITEM_DEEP_SEA_SCALE
 	.2byte ITEM_NONE
 	release
 	end
