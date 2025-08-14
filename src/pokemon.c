@@ -5144,6 +5144,11 @@ u16 GetEvolutionTargetSpecies(struct Pokemon *mon, u8 type, u16 evolutionItem)
              && gEvolutionTable[species][i].param == evolutionItem)
             {
                 targetSpecies = gEvolutionTable[species][i].targetSpecies;
+                
+                // Prevent cross-generational evolutions like Politoed and Slowking until the National Pokedex is obtained
+                // if (!IsNationalPokedexEnabled() && targetSpecies > KANTO_SPECIES_END)
+                //     targetSpecies = SPECIES_NONE;
+                
                 break;
             }
         }

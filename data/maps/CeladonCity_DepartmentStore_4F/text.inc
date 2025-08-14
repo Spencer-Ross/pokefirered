@@ -15,4 +15,4 @@ CeladonCity_DepartmentStore_4F_Text_FloorSign::
     .string "Express yourself with gifts!\n"
     .string "4F: WISE MAN GIFTS\p"
     .string "Evolution Special!\n"
-    .string "Element STONES on sale now!$"
+    .string "All Evolution Items on sale now!$"
