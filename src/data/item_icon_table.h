@@ -55,8 +55,8 @@ static const u32 *const sItemIconTable[ITEMS_COUNT + 1][2] =
     [ITEM_BLUE_SHARD]     = {gItemIcon_Shard, gItemIconPalette_BlueShard},
     [ITEM_YELLOW_SHARD]   = {gItemIcon_Shard, gItemIconPalette_YellowShard},
     [ITEM_GREEN_SHARD]    = {gItemIcon_Shard, gItemIconPalette_GreenShard},
-    // ????????
-    [ITEM_034]            = {gItemIcon_QuestionMark, gItemIconPalette_QuestionMark},
+    // Link Cable
+    [ITEM_LINK_CABLE]     = {gItemIcon_ThunderStone, gItemIconPalette_ThunderStone},
     [ITEM_035]            = {gItemIcon_QuestionMark, gItemIconPalette_QuestionMark},
     [ITEM_036]            = {gItemIcon_QuestionMark, gItemIconPalette_QuestionMark},
     [ITEM_037]            = {gItemIcon_QuestionMark, gItemIconPalette_QuestionMark},
