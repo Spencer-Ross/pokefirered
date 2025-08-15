@@ -17,8 +17,8 @@
             5,
             4,
             4,
-            1,
-            1
+            5,
+            5
           ]
         },
         {
@@ -28,7 +28,7 @@
             30,
             5,
             4,
-            1
+            5
           ]
         },
         {
@@ -38,7 +38,7 @@
             30,
             5,
             4,
-            1
+            5
           ]
         },
         {
@@ -53,7 +53,7 @@
             40,
             15,
             4,
-            1
+            5
           ],
           "groups": {
             "old_rod": [
@@ -11661,17 +11661,17 @@
               {
                 "min_level": 20,
                 "max_level": 30,
-                "species": "SPECIES_TENTACOOL"
+                "species": "SPECIES_QWILFISH"
               },
               {
                 "min_level": 30,
                 "max_level": 35,
-                "species": "SPECIES_TENTACOOL"
+                "species": "SPECIES_TENTACRUEL"
               },
               {
                 "min_level": 35,
                 "max_level": 40,
-                "species": "SPECIES_TENTACOOL"
+                "species": "SPECIES_TENTACRUEL"
               }
             ]
           },
@@ -11918,7 +11918,7 @@
               {
                 "min_level": 5,
                 "max_level": 35,
-                "species": "SPECIES_TENTACOOL"
+                "species": "SPECIES_WAILMER"
               },
               {
                 "min_level": 5,
@@ -11928,7 +11928,7 @@
               {
                 "min_level": 35,
                 "max_level": 40,
-                "species": "SPECIES_TENTACOOL"
+                "species": "SPECIES_WAILMER"
               },
               {
                 "min_level": 35,
@@ -24460,7 +24460,7 @@
               {
                 "min_level": 5,
                 "max_level": 35,
-                "species": "SPECIES_TENTACOOL"
+                "species": "SPECIES_WAILMER"
               },
               {
                 "min_level": 5,
@@ -24470,7 +24470,7 @@
               {
                 "min_level": 35,
                 "max_level": 40,
-                "species": "SPECIES_TENTACOOL"
+                "species": "SPECIES_WAILMER"
               },
               {
                 "min_level": 35,
